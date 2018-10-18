@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "android": {
+      "package": "fr.demars.bridget",
+      "versionCode": 1,
+      "permissions": [],
+      "icon": "./images/logo.png"
+    }
+  }
+}
